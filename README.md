@@ -1,4 +1,15 @@
-# Inventrack-project
+
+# InvenTrack
+
+Indoor Product Positioning System
+using Bluetooth Beacon
+
+(Vue + Node + Python + MySQL)
+
+This project proposes an indoor warehouse positioning system
+that identifies product locations using Bluetooth Beacon,
+RSSI Fingerprinting, and Euclidean Distance.
+Developed as Senior Project (Woramet Sarikaket)
 
 ## Project setup
 ```
@@ -24,6 +35,3 @@ pip install bleak
 npm install express mysql cors body-parser axios
 
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
