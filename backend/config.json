@@ -1,0 +1,11 @@
+{
+  "laptop_index": 1,
+  "beacon_address": "D8:6F:B8:83:E6:55",
+  "beacon_name": "IBKS 105 No 1",
+  "slot": 1,
+  "backend_url": "http://localhost:5000/position",
+  "interval_sec": 5,
+  "scan_times": 10,
+  "scan_duration_sec": 3.0,
+  "min_rssi": -95
+}
