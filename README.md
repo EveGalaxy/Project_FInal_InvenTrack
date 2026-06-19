@@ -1,4 +1,4 @@
-# front-end-project
+# Inventrack-project
 
 ## Project setup
 ```
